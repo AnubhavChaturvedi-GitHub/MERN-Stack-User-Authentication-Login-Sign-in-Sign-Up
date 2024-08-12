@@ -3,9 +3,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=AnubhavChaturvedi-GitHub&label=Profile%20views&color=0e75b6&style=flat" alt="AnubhavChaturvedi-GitHub" /> 
-</p>
 
 This project implements a robust MERN-stack user authentication system featuring login, registration, and profile management functionalities. It provides a comprehensive solution for handling user authentication and data management with a modern UI.
 
