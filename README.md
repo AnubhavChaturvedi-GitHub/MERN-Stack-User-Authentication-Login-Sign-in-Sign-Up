@@ -30,7 +30,11 @@ Update the MongoDB URL in the `server.js` file. Replace the placeholder with you
 
 ```js
 // In server.js
-const mongoURI = "your_mongodb_connection_string"; // Replace this with your MongoDB connection string
+mongoose.connect('mongodb://localhost:XXXXX/UserData', {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+})
+ // Replace this with your MongoDB connection string
 ```
 
 ### Step 4: Install Dependencies
