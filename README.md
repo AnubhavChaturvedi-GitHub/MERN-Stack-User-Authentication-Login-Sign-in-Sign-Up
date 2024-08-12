@@ -97,12 +97,13 @@ The application will be available at [http://localhost:3000](http://localhost:30
 - Verify the MongoDB connection string in `server.js`.
 - Confirm all dependencies are installed by running `npm install`.
 
+  ## Acknowledgements
+
+- [MERN Stack Documentation](https://www.mongodb.com/mern-stack)
+- [Node.js Documentation](https://nodejs.org/en/docs/)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- [MERN Stack Documentation](https://www.mongodb.com/mern-stack)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
 
