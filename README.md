@@ -1,6 +1,6 @@
 # MERN-Stack User Authentication Login Page
 
-![Screenshot](path/to/your/screenshot.png)  <!-- Replace with actual path -->
+![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20023450.png?raw=true)  <!-- Replace with actual path -->
 
 ## Overview
 
