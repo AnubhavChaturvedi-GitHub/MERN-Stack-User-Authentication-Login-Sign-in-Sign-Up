@@ -1,38 +1,147 @@
-.App {
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #ff007f, #00c6ff); /* Gradient matching button color with blue */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.login-card {
+  background: rgba(255, 255, 255, 0.078); /* Increased transparency */
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Slightly stronger shadow */
+  width: 100%;
+  max-width: 400px; /* Adjusted width */
   text-align: center;
+  position: relative;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.login-card h2 {
+  margin-bottom: 20px;
+  color: #ffffff; /* Changed to white for better contrast */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.login-form {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  position: relative;
+}
+
+.input-group {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.input-group label {
+  margin-bottom: 5px;
+  display: block;
+  color: #ffffff; /* Changed to white for better contrast */
+  position: absolute;
+  top: -20px;
+  font-size: 12px;
+  background: transparent; /* Made background transparent */
+  padding: 0 5px;
+}
+
+.line-input {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.line-input input {
+  padding: 10px;
+  border-radius: 0;
+  border: none;
+  border-bottom: 2px solid #c9baba;
+  outline: none;
+  width: 80%;
+  background: transparent;
+  transition: border-color 0.3s ease;
+  padding-right: 35px; /* Space for the eye icon */
+}
+
+.line-input input:focus {
+  border-color: #ff007f;
+}
+
+.line-input .line {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: #ff007f;
+  transform: scaleX(0);
+  transform-origin: bottom left;
+  transition: transform 0.3s ease;
+}
+
+.line-input input:focus ~ .line {
+  color: #ff0000;
+  transform: scaleX(1);
+}
+
+.login-button {
+  padding: 10px;
+  background-color: #1500ff;
   color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
-.App-link {
-  color: #61dafb;
+.login-button:hover {
+  background-color: #0374ff;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p {
+  margin-top: 15px;
+  color: #fff; /* Changed to white for better contrast */
+}
+
+a {
+  color: #fbff00;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.error-message {
+  color: #ff0000; /* Red color for errors */
+  margin-top: 10px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.password-toggle {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 14px; /* Slightly smaller size */
+  color: #ddd;
+  cursor: pointer;
+}
+
+.password-toggle:hover {
+  color: #ff007f;
 }
