@@ -3,9 +3,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![Telegram][telegram-shield]][telegram-url]
 
 This project implements a robust MERN-stack user authentication system featuring login, registration, and profile management functionalities. It provides a comprehensive solution for handling user authentication and data management with a modern UI.
 
@@ -133,9 +132,7 @@ The application will be available at [http://localhost:3000](http://localhost:30
 [telegram-shield]: https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram&logoColor=white
 [telegram-url]: https://t.me/YourTelegramUsername
 
-<!-- GitHub -->
-[github-shield]: https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white
-[github-url]: https://github.com/AnubhavChaturvedi-GitHub
+
 
 
 ## License
