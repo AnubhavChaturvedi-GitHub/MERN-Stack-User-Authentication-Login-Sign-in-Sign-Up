@@ -1,10 +1,10 @@
 # MERN-Stack User Authentication Login Page
 
-![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20023526.png?raw=true) 
-
 ## Overview
 
 This project provides a MERN-stack user authentication system with login, registration, and profile management functionalities.
+
+![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20023526.png?raw=true) 
 
 ## How to Set Up
 
