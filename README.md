@@ -1,6 +1,6 @@
 # MERN-Stack User Authentication Login Page
 
-![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20023450.png?raw=true)  <!-- Replace with actual path -->
+![Screenshot]() 
 
 ## Overview
 
@@ -49,7 +49,7 @@ npm install
 
 Ensure MongoDB is running. Open a terminal and start the MongoDB server. The output should look something like this:
 
-![MongoDB Server Screenshot](path/to/mongodb-screenshot.png)  <!-- Replace with actual path -->
+![MongoDB Server Screenshot](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20023450.png?raw=true)  <!-- Replace with actual path -->
 
 ### Step 6: Start the Application
 
