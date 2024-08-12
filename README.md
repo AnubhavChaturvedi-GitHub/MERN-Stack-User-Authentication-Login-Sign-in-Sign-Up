@@ -79,8 +79,11 @@ The application will be available at [http://localhost:3000](http://localhost:30
 #### Registration Success Alert
 ![Registration Success](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20024010.png?raw=true)
 
-#### Login Error Handling
+#### Login Error Handling + Quick Login Success
 ![Login Error Handling](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20024257.png?raw=true)
+
+### User Profilre With Logout Button
+![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20024140.png)
 
 ## Features
 
