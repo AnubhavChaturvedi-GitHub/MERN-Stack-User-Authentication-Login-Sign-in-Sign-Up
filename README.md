@@ -1,6 +1,6 @@
 # MERN-Stack User Authentication Login Page
 
-![Screenshot]() 
+![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/MERN-Stack-User-Authentication-Login-Sign-in-Sign-Up/blob/main/DOC/Screenshot%202024-08-13%20023526.png?raw=true) 
 
 ## Overview
 
